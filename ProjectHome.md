@@ -1,0 +1,1 @@
+This Erlang module can be used to read in YAML data structures and convert them into appropriate Erlang elements: lists or mappings.  Lists are represented as lists, and mappings as tuples of `{key, value}`.
